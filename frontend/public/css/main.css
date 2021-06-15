@@ -1,0 +1,92 @@
+body {
+    background: darkslateblue;
+}
+
+#logo {
+    width: 70px;
+    height: 50px;
+}
+header {
+    background-image: url("https://images.wallpaperscraft.ru/image/goluboj_tsvet_fon_149796_1920x1080.jpg");
+}
+
+#find{
+    height: 40px;
+}
+
+.login{
+    text-align: right;
+}
+
+.main {
+    background-color: snow;
+}
+
+.carousel-inner{
+    height: 450px;
+}
+
+.product{
+     background-color: bisque;
+}
+
+.main{
+    background-color: beige;
+}
+
+.price{
+    color: red;
+}
+.product_image{
+    object-fit: fill ;
+}
+.product_about{
+    background-color: white;
+}
+#main-list{
+    background-color:whitesmoke;
+}
+
+#login-main {
+    background-color: beige;
+    margin: 60px;
+}
+
+#login-singup {
+    background-color: beige;
+    margin: 170px;
+}
+
+#logo-login {
+    width: 10%;
+    height: 10%;
+}
+
+.logo-l{
+    display: flex;
+    justify-content: center;
+}
+
+#main-list-login{
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+#button-login{
+    display: flex;
+    justify-content: center;
+}
+
+#footer-login{
+    background-color: bisque;
+}
+.header-login{
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
